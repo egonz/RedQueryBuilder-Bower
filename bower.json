@@ -1,7 +1,6 @@
 {
   "name": "RedQueryBuilder",
-  "version": "0.0.0",
-  "homepage": "https://github.com/egonz/RedQueryBuilder-Bower",
+  "version": "1.0.0",
   "authors": [
     "salk31"
   ],
@@ -10,9 +9,6 @@
     "styles/dark/dark.css",
     "scripts/RedQueryBuilder.nocache.js",
     "scripts/RedQueryBuilderFactory.nocache.js"
-  ],
-  "moduleType": [
-    "es6"
   ],
   "keywords": [
     "Pure",
