@@ -1,0 +1,32 @@
+{
+  "name": "RedQueryBuilder",
+  "version": "0.0.0",
+  "homepage": "https://github.com/egonz/RedQueryBuilder-Bower",
+  "authors": [
+    "salk31"
+  ],
+  "description": "RedQueryBuilder - JavaScript SQL Query Builder UI",
+  "main": [
+    "styles/dark/dark.css",
+    "scripts/RedQueryBuilder.nocache.js",
+    "scripts/RedQueryBuilderFactory.nocache.js"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "Pure",
+    "Javascript",
+    "SQL",
+    "Query",
+    "Builder"
+  ],
+  "license": "Freeware",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
